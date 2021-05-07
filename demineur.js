@@ -88,6 +88,6 @@ function clicked()
     {
         this.style.backgroundColor = "white"
         if(this.dataset.nbMines)
-            this.innerHTML = this.dataset.nbMines
+            this.innerHTML = this.dataset.nbMines 
     }
 }
