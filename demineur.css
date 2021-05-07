@@ -1,0 +1,42 @@
+#title
+{
+    text-align: center;
+}
+
+#form
+{
+    display: flex;
+    justify-content: space-evenly;
+    width: 800px;
+    margin: auto;
+}
+
+#start
+{
+    text-align: center;
+    margin-bottom: 5em;
+}
+
+#grille
+{
+    display: flex;
+    flex-flow: column nowrap;
+
+}
+
+.case
+{
+    width :20px;
+    height : 20px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ligne
+{
+    display: flex;
+    flex-flow: row nowrap;
+    margin: auto;
+}
