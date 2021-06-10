@@ -13,7 +13,7 @@
             <input type="text" id="tailleH" name="tailleH" value = "10">
             <input type="text" id="tailleV" name="tailleV" value = "10">
         </div>
-        <div id="start">Démarrerer</div>
+        <div id="start">Démarrererazeaze</div>
         <div id="grille"></div>
     </div>
 
