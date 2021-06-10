@@ -17,5 +17,5 @@
         <div id="grille"></div>
     </div>
 
-    <script src="demineur.js"></script>
+    <script src="demineur.js" ></script>
 </body
